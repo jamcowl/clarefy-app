@@ -3,7 +3,7 @@ Flask application to help clarify key concepts in scientific papers
 
 ### Motivation
 
-We want to help researchers and students understand academic papers and articles more easily when they are reading out of their comfort zone/area of expertise. The prospect of slogging through a publication full of jargon and references to a body of literature the reader hasn't heard of can be extremely daunting, which can discourage people from pushing the limits of their understanding. 
+We want to help researchers and students understand academic papers and articles more easily when they are reading outside their comfort zone/area of expertise. The prospect of slogging through a publication full of jargon and references to a body of literature the reader hasn't heard of can be extremely daunting, which can discourage people from pushing the limits of their understanding. 
 
 The reality: the user supplies an arXiv address to a paper, the app reads in the title and abstract, uses the Microsoft cognitive services API to extract the key concepts, then provides a ranked list of short definitions and Wikipedia links for the reader.
 
