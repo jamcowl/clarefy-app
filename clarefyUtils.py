@@ -103,7 +103,6 @@ def getFullPageHTML(userInput):
 	print "GOT TITLE: "+paperTitle
 	print "GOT ABSTRACT: "+paperAbstract
 	keyps = getTopPhrases(paperAbstract)
-	paperTitle = '<a href="'+url+'">'+paperTitle+'</a>'
 	
 	# build content
 	content = "" # construct decent looking body (without going to the gym)
@@ -113,6 +112,9 @@ def getFullPageHTML(userInput):
 	
 	# constant style things
 	topOfPage = """<!DOCTYPE html><html lang="en"><head><title>"""+paperTitle+"""</title><link href="http://getbootstrap.com/dist/css/bootstrap.min.css" rel="stylesheet"><link href="http://getbootstrap.com/examples/jumbotron-narrow/jumbotron-narrow.css" rel="stylesheet"><link href="/static/newindex.css" rel="stylesheet"><script src="/static/js/jquery-1.11.2.js"></script><script src="/static/js/signUp.js"></script></head><body><div class="container"><div class="header"><h3 class="text-muted"></h3></div><div class="jumbotron"><div align="center"><img src="/static/images/clarefy_logo.png" align="middle"></div><h1>""" # everything up to a header
+
+	# make hyperlink
+	paperTitle = '<a href="'+url+'">'+paperTitle+'</a>'
 	header = paperTitle+"</h1><p></p><p><h3>Key concepts from this paper:</h3></p>" # set page title from paper title
 	
 	bottomOfPage = """</p></div><p>Powered by:</p><p></p><a href="https://azure.microsoft.com/en-gb/services/cognitive-services/"><img src="/static/images/mscs.png" style="width:278px;height:83px;"><a href="https://scholar.google.co.uk/"><img src="/static/images/google_scholar.png" style="width:217px;height:83px;"><a href="https://aws.amazon.com"><img src="/static/images/aws_logo.png" style="width:189px;height:83px;"> <a href="http://flask.pocoo.org/"><img src="/static/images/flask.png" style="width:212px;height:83px;"> </a><footer class="footer"><p></p><p>&copy; clarefy 2017</p></footer>"""
