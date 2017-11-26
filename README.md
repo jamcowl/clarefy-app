@@ -38,3 +38,5 @@ https://arxiv.org/abs/1303.7367
 https://arxiv.org/pdf/1609.01668v1.pdf
 
 random1207.7214string
+
+**Note:** typing enter won't submit the request - users must click the button on screen.
