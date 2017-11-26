@@ -9,6 +9,8 @@ The reality: the user supplies an arXiv address to a paper, the app reads in the
 
 The dream: with more time, we would finish off our reference-parsing code, which would access the content of the paper's citations in addition to the paper itself. We would then use this to compare with the important concepts of the primary paper and give ranked suggestions for background reading. Ideally, instead of a long list of citations in no useful order in the paper, the app could provide the top few papers which are seminal works on the area and most relevant to understanding the paper at hand.
 
+The [futureWork](futureWork) directory shows what we were working on at submission: code to read and sort references.
+
 ### Requirements
 
 Python 2.7 with the following libraries installed:
