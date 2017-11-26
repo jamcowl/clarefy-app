@@ -1,0 +1,497 @@
+1
+         Title Folding DNA into twisted and curved nanoscale shapes
+           URL http://science.sciencemag.org/content/325/5941/725.short
+          Year 2009
+     Citations 689
+Citations list http://scholar.google.com/scholar?cites=2856934388643515423&as_sdt=2005&sciodt=0,5&hl=en
+2
+         Title DNA gridiron nanostructures based on four-arm junctions
+           URL http://science.sciencemag.org/content/339/6126/1412.short
+          Year 2013
+     Citations 129
+Citations list http://scholar.google.com/scholar?cites=3748904944475314566&as_sdt=2005&sciodt=0,5&hl=en
+       Excerpt Abstract Engineering wireframe architectures and scaffolds of increasing complexity is one of the important challenges in nanotechnology. We present a design strategy to create gridiron-like DNA structures. A series of four-arm junctions are used as vertices within a 
+3
+         Title Three-dimensional structures self-assembled from DNA bricks
+           URL http://science.sciencemag.org/content/338/6111/1177.short
+          Year 2012
+     Citations 536
+Citations list http://scholar.google.com/scholar?cites=11457205138302922637&as_sdt=2005&sciodt=0,5&hl=en
+       Excerpt Abstract We describe a simple and robust method to construct complex three-dimensional (3D) structures by using short synthetic DNA strands that we call “DNA bricks.” In one-step annealing reactions, bricks with hundreds of distinct sequences self-assemble into 
+
+4
+         Title DNA cage delivery to mammalian cells
+           URL http://pubs.acs.org/doi/abs/10.1021/nn2005574
+          Year 2011
+     Citations 210
+      Versions 9
+     9841019764908987356
+Citations list http://scholar.google.com/scholar?cites=9841019764908987356&as_sdt=2005&sciodt=0,5&hl=en
+ Versions list http://scholar.google.com/scholar?cluster=9841019764908987356&hl=en&as_sdt=0,5&as_ylo=2011&as_yhi=2011
+       Excerpt DNA cages are nanometer-scale polyhedral structures formed by self-assembly from synthetic DNA oligonucleotides. Potential applications include in vivo imaging and the targeted delivery of macromolecules into living cells. We report an investigation of the ability of a model cage, a DNA tetrahedron, to enter live cultured mammalian cells. Cultured human embryonic kidney cells were treated with a range of fluorescently labeled DNA tetrahedra …
+
+5
+         Title A logic-gated nanorobot for targeted transport of molecular payloads
+           URL http://science.sciencemag.org/content/335/6070/831.short
+          Year 2012
+     Citations 887
+      Versions 21
+     10593932157405546746
+Citations list http://scholar.google.com/scholar?cites=10593932157405546746&as_sdt=2005&sciodt=0,5&hl=en
+ Versions list http://scholar.google.com/scholar?cluster=10593932157405546746&hl=en&as_sdt=0,5&as_ylo=2012&as_yhi=2012
+       Excerpt We describe an autonomous DNA nanorobot capable of transporting molecular payloads to cells, sensing cell surface inputs for conditional, triggered activation, and reconfiguring its structure for payload delivery. The device can be loaded with a variety of materials in a 
+
+6
+         Title DNA-based self-assembly of chiral plasmonic nanostructures with tailored optical response
+           URL http://scholar.google.com/https://www.nature.com/nature/journal/v483/n7389/abs/nature10889.html
+          Year 2012
+     Citations 905
+      Versions 24
+     16516009004221495405
+Citations list http://scholar.google.com/scholar?cites=16516009004221495405&as_sdt=2005&sciodt=0,5&hl=en
+ Versions list http://scholar.google.com/scholar?cluster=16516009004221495405&hl=en&as_sdt=0,5&as_ylo=2012&as_yhi=2012
+       Excerpt Matter structured on a length scale comparable to or smaller than the wavelength of light can exhibit unusual optical properties1. Particularly promising components for such materials are metal nanostructures, wherestructuralalterationsprovideastraightf… means of tailoring their surface plasmon resonances and hence their interaction with light2, 3. But the top-down fabrication of plasmonic materials with controlled optical responses in the visible …
+
+7
+         Title Construction of a 4 zeptoliters switchable 3D DNA box origami
+           URL http://pubs.acs.org/doi/abs/10.1021/nn303767b
+          Year 2012
+     Citations 61
+      Versions 6
+     14235150753998417886
+Citations list http://scholar.google.com/scholar?cites=14235150753998417886&as_sdt=2005&sciodt=0,5&hl=en
+ Versions list http://scholar.google.com/scholar?cluster=14235150753998417886&hl=en&as_sdt=0,5&as_ylo=2012&as_yhi=2012
+       Excerpt The DNA origami technique is a recently developed self-assembly method that allows construction of 3D objects at the nanoscale for various applications. In the current study we report the production of a 18× 18× 24 nm3 hollow DNA box origami structure with a switchable lid. The structure was efficiently produced and characterized by atomic force microscopy, transmission electron microscopy, and Förster resonance energy transfer …
+
+8
+         Title Challenges and opportunities for structural DNA nanotechnology
+           URL http://scholar.google.com/https://www.nature.com/nnano/journal/v6/n12/abs/nnano.2011.187.html
+          Year 2011
+     Citations 692
+      Versions 18
+     16658916776330427883
+Citations list http://scholar.google.com/scholar?cites=16658916776330427883&as_sdt=2005&sciodt=0,5&hl=en
+ Versions list http://scholar.google.com/scholar?cluster=16658916776330427883&hl=en&as_sdt=0,5&as_ylo=2011&as_yhi=2011
+       Excerpt DNA molecules have been used to build a variety of nanoscale structures and devices over the past 30 years, and potential applications have begun to emerge. But the development of more advanced structures and applications will require a number of issues to be addressed, 
+
+9
+10
+11
+12
+         Title The atomistic simulation of DNA
+           URL http://onlinelibrary.wiley.com/doi/10.1002/wcms.46/full
+          Year 2011
+     Citations 33
+      Versions 0
+     2207513851131709526
+Citations list http://scholar.google.com/scholar?cites=2207513851131709526&as_sdt=2005&sciodt=0,5&hl=en
+       Excerpt Abstract We review the current state of the art relating to the atomistic simulation of the structure and dynamics of DNA. We begin with a brief historical overview to set the scene and introduce some of the key issues that had to be addressed to progress the field and then 
+
+13
+14
+         Title End-to-end attraction of duplex DNA
+           URL http://scholar.google.com/https://academic.oup.com/nar/article-abstract/40/9/3812/1119329
+          Year 2012
+     Citations 40
+      Versions 15
+     16649519209961052316
+Citations list http://scholar.google.com/scholar?cites=16649519209961052316&as_sdt=2005&sciodt=0,5&hl=en
+ Versions list http://scholar.google.com/scholar?cluster=16649519209961052316&hl=en&as_sdt=0,5&as_ylo=2012&as_yhi=2012
+       Excerpt Abstract Recent experiments [Nakata, M. et al., End-to-end stacking and liquid crystal condensation of 6 to 20 basepair DNA duplexes. Science 2007; 318: 1276–1279] have demonstrated spontaneous end-to-end association of short duplex DNA fragments into long 
+
+15
+         Title In situ structure and dynamics of DNA origami determined through molecular dynamics simulations
+           URL http://www.pnas.org/content/110/50/20099.short
+          Year 2013
+     Citations 73
+      Versions 7
+     8360857795376985349
+Citations list http://scholar.google.com/scholar?cites=8360857795376985349&as_sdt=2005&sciodt=0,5&hl=en
+ Versions list http://scholar.google.com/scholar?cluster=8360857795376985349&hl=en&as_sdt=0,5&as_ylo=2013&as_yhi=2013
+       Excerpt Abstract The DNA origami method permits folding of long single-stranded DNA into complex 3D structures with subnanometer precision. Transmission electron microscopy, atomic force microscopy, and recently cryo-EM tomography have been used to characterize the 
+
+         Title cadnano to PDB File Converter
+           URL http://scholar.google.com/https://nanohub.org/resources/cadnanocvrt
+          Year 2013
+     Citations 4
+      Versions 0
+     4820218853044727119
+Citations list http://scholar.google.com/scholar?cites=4820218853044727119&as_sdt=2005&sciodt=0,5&hl=en
+       Excerpt … Available at http://cadnano.org/. Cite this work. Researchers should cite this work as follows: J.Yoo and A. Aksimentiev. In situ structure and dynamics of DNA origami determined throughmolecular dynamics simulations. Proceedings of the National Academy of Sciences USA 110:
+
+         Title Supporting Information: In situ structure and dynamics of DNA origami determined through molecular dynamics simulations
+           URL http://scholar.google.com/https://pdfs.semanticscholar.org/e371/8362268442f57e440dc876d2575866b65672.pdf
+     Citations 0
+      Versions 3
+      PDF link http://scholar.google.com/https://pdfs.semanticscholar.org/e371/8362268442f57e440dc876d2575866b65672.pdf
+ Versions list http://scholar.google.com/scholar?cluster=16005473182977234851&hl=en&as_sdt=0,5&as_ylo=2013&as_yhi=2013
+       Excerpt Design of the DNA origami structures. Using caDNAno, we designed the following three DNA origami structures: a straight 6-by-3 honeycomb-pleated structure (HC), a straight 4-by-4 squarepleated structure (SQ), and a 6-by-3 honeycomb-pleated structure having a 90◦ 
+
+16
+17
+         Title Entropic elasticity of lambda-phage DNA
+           URL http://newton.kias.re.kr/~hyeoncb/Summerschool2015/BustaSci94.pdf
+          Year 1994
+     Citations 2040
+      Versions 9
+     6092340751609004924
+      PDF link http://newton.kias.re.kr/~hyeoncb/Summerschool2015/BustaSci94.pdf
+Citations list http://scholar.google.com/scholar?cites=6092340751609004924&as_sdt=2005&sciodt=0,5&hl=en
+ Versions list http://scholar.google.com/scholar?cluster=6092340751609004924&hl=en&as_sdt=0,5&as_ylo=1994&as_yhi=1994
+       Excerpt JSTOR is an independent not-for-profit organization dedicated to creating and preserving a digital archive of scholarly journals. For more information regarding JSTOR, please contact supportG) jstor. org. http://www. jstor. Org/Fri May 7 19: 29: 36 2004 axonal structure and function. Further, the ability of ceramide to inhibit the growth of T9 cells, which only express p75&quot;, suggests that the SM cycle may be a prominent signaling path-wayin cells …
+
+18
+         Title An experimentally-informed coarse-grained 3-site-per-nucleotide model of DNA: Structure, thermodynamics, and dynamics of hybridization
+           URL http://aip.scitation.org/doi/abs/10.1063/1.4822042
+          Year 2013
+     Citations 85
+      Versions 8
+     10956755702207095598
+Citations list http://scholar.google.com/scholar?cites=10956755702207095598&as_sdt=2005&sciodt=0,5&hl=en
+ Versions list http://scholar.google.com/scholar?cluster=10956755702207095598&hl=en&as_sdt=0,5&as_ylo=2013&as_yhi=2013
+       Excerpt A new 3-S ite-P er-N ucleotide coarse-grained model for DNA is presented. The model includes anisotropic potentials between bases involved in base stacking and base pair interactions that enable the description of relevant structural properties, including the major and minor grooves. In an improvement over available coarse-grained models, the correct persistence length is recovered for both ssDNA and dsDNA, allowing for simulation of …
+
+19
+         Title Chemically accurate coarse graining of double-stranded DNA
+           URL http://www.pnas.org/content/107/47/20340.short
+          Year 2010
+     Citations 117
+      Versions 13
+     6149819331690904408
+Citations list http://scholar.google.com/scholar?cites=6149819331690904408&as_sdt=2005&sciodt=0,5&hl=en
+ Versions list http://scholar.google.com/scholar?cluster=6149819331690904408&hl=en&as_sdt=0,5&as_ylo=2010&as_yhi=2010
+       Excerpt Abstract Coarse-grained (CG) modeling approaches are widely used to simulate many important biological processes involving DNA, including chromatin folding and genomic packaging. The bending propensity of a semiflexible DNA molecule critically influences 
+
+20
+         Title Coarse-grained simulations of RNA and DNA duplexes
+           URL http://pubs.acs.org/doi/abs/10.1021/jp400786b
+          Year 2013
+     Citations 52
+      Versions 15
+     12015664549904016511
+Citations list http://scholar.google.com/scholar?cites=12015664549904016511&as_sdt=2005&sciodt=0,5&hl=en
+ Versions list http://scholar.google.com/scholar?cluster=12015664549904016511&hl=en&as_sdt=0,5&as_ylo=2013&as_yhi=2013
+       Excerpt Although RNAs play many cellular functions, little is known about the dynamics and thermodynamics of these molecules. In principle, all-atom molecular dynamics simulations can investigate these issues, but with current computer facilities, these simulations have 
+
+21
+         Title Mean-field interactions between nucleic-acid-base dipoles can drive the formation of a double helix
+           URL http://scholar.google.com/https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.110.098101
+          Year 2013
+     Citations 37
+      Versions 9
+     16095914544202947528
+Citations list http://scholar.google.com/scholar?cites=16095914544202947528&as_sdt=2005&sciodt=0,5&hl=en
+ Versions list http://scholar.google.com/scholar?cluster=16095914544202947528&hl=en&as_sdt=0,5&as_ylo=2013&as_yhi=2013
+       Excerpt Abstract A proposed coarse-grained model of nucleic acids demonstrates that average interactions between base dipoles, together with chain connectivity and excluded-volume interactions, are sufficient to form double-helical structures of DNA and RNA molecules. Additionally, local interactions determine helix handedness and direction of strand packing. This result, and earlier research on reduced protein models, suggests that mean-field …
+
+22
+         Title Moving beyond Watson–Crick models of coarse grained DNA dynamics
+           URL http://aip.scitation.org/doi/abs/10.1063/1.3662137
+          Year 2011
+     Citations 52
+      Versions 14
+     9486531583722593675
+Citations list http://scholar.google.com/scholar?cites=9486531583722593675&as_sdt=2005&sciodt=0,5&hl=en
+ Versions list http://scholar.google.com/scholar?cluster=9486531583722593675&hl=en&as_sdt=0,5&as_ylo=2011&as_yhi=2011
+       Excerpt DNA produces a wide range of structures in addition to the canonical B-form of double-stranded DNA. Some of these structures are stabilized by Hoogsteen bonds. We developed an experimentally parameterized, coarse-grained model that incorporates such bonds. The 
+
+23
+         Title A systematically coarse-grained model for DNA and its predictions for persistence length, stacking, twist, and chirality
+           URL http://aip.scitation.org/doi/abs/10.1063/1.3269994
+          Year 2010
+     Citations 96
+      Versions 15
+     16886325376692000956
+Citations list http://scholar.google.com/scholar?cites=16886325376692000956&as_sdt=2005&sciodt=0,5&hl=en
+ Versions list http://scholar.google.com/scholar?cluster=16886325376692000956&hl=en&as_sdt=0,5&as_ylo=2010&as_yhi=2010
+       Excerpt We introduce a coarse-grained model of DNA with bases modeled as rigid-body ellipsoids to capture their anisotropic stereochemistry. Interaction potentials are all physicochemical and generated from all-atom simulation/parameterization with minimal phenomenology. 
+
+24
+         Title Lattice model of oligonucleotide hybridization in solution. I. Model and thermodynamics
+           URL http://aip.scitation.org/doi/abs/10.1063/1.3568145
+          Year 2011
+     Citations 18
+      Versions 10
+     12480893867729983107
+Citations list http://scholar.google.com/scholar?cites=12480893867729983107&as_sdt=2005&sciodt=0,5&hl=en
+ Versions list http://scholar.google.com/scholar?cluster=12480893867729983107&hl=en&as_sdt=0,5&as_ylo=2011&as_yhi=2011
+       Excerpt A coarse-grained lattice model of DNA oligonucleotides is proposed to investigate the general mechanisms by which single-stranded oligonucleotides hybridize to their complementary strands in solution. The model, based on a high-coordination cubic lattice, is 
+
+25
+         Title A coarse-grained DNA model parameterized from atomistic simulations by inverse Monte Carlo
+           URL http://www.mdpi.com/2073-4360/6/6/1655/htm
+          Year 2014
+     Citations 28
+      Versions 8
+     16593310152672801839
+Citations list http://scholar.google.com/scholar?cites=16593310152672801839&as_sdt=2005&sciodt=0,5&hl=en
+ Versions list http://scholar.google.com/scholar?cluster=16593310152672801839&hl=en&as_sdt=0,5&as_ylo=2014&as_yhi=2014
+       Excerpt Abstract: Computer modeling of very large biomolecular systems, such as long DNA polyelectrolytes or protein-DNA complex-like chromatin cannot reach all-atom resolution in a foreseeable future and this necessitates the development of coarse-grained (CG) 
+
+26
+         Title A coarse-grained model of unstructured single-stranded DNA derived from atomistic simulation and single-molecule experiment
+           URL http://pubs.acs.org/doi/abs/10.1021/ct500193u
+          Year 2014
+     Citations 38
+      Versions 8
+     16469520997015227198
+Citations list http://scholar.google.com/scholar?cites=16469520997015227198&as_sdt=2005&sciodt=0,5&hl=en
+ Versions list http://scholar.google.com/scholar?cluster=16469520997015227198&hl=en&as_sdt=0,5&as_ylo=2014&as_yhi=2014
+       Excerpt A simple coarse-grained model of single-stranded DNA (ssDNA) was developed, featuring only two sites per nucleotide that represent the centers of mass of the backbone and sugar/base groups. In the model, the interactions between sites are described using 
+
+27
+         Title Structural, mechanical, and thermodynamic properties of a coarse-grained DNA model
+           URL http://aip.scitation.org/doi/abs/10.1063/1.3552946
+          Year 2011
+     Citations 174
+      Versions 14
+     6140916905442610770
+Citations list http://scholar.google.com/scholar?cites=6140916905442610770&as_sdt=2005&sciodt=0,5&hl=en
+ Versions list http://scholar.google.com/scholar?cluster=6140916905442610770&hl=en&as_sdt=0,5&as_ylo=2011&as_yhi=2011
+       Excerpt We explore in detail the structural, mechanical, and thermodynamic properties of a coarse-grained model of DNA similar to that recently introduced in a study of DNA nanotweezers [TE Ouldridge, AA Louis, and JPK Doye, Phys. Rev. Lett. 134, 178101 (2010)]. Effective 
+
+29
+         Title DNA nanotweezers studied with a coarse-grained model of DNA
+           URL http://scholar.google.com/https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.104.178101
+          Year 2010
+     Citations 121
+      Versions 15
+     1665602256253662769
+Citations list http://scholar.google.com/scholar?cites=1665602256253662769&as_sdt=2005&sciodt=0,5&hl=en
+ Versions list http://scholar.google.com/scholar?cluster=1665602256253662769&hl=en&as_sdt=0,5&as_ylo=2010&as_yhi=2010
+       Excerpt Abstract We introduce a coarse-grained rigid nucleotide model of DNA that reproduces the basic thermodynamics of short strands, duplex hybridization, single-stranded stacking, and hairpin formation, and also captures the essential structural properties of DNA: the helical 
+
+         Title Extracting bulk properties of self-assembling systems from small simulations
+           URL http://iopscience.iop.org/article/10.1088/0953-8984/22/10/104102/meta
+          Year 2010
+     Citations 35
+      Versions 14
+     4996674462797030405
+Citations list http://scholar.google.com/scholar?cites=4996674462797030405&as_sdt=2005&sciodt=0,5&hl=en
+ Versions list http://scholar.google.com/scholar?cluster=4996674462797030405&hl=en&as_sdt=0,5&as_ylo=2010&as_yhi=2010
+       Excerpt Abstract For systems that self-assemble into finite-sized objects, it is sometimes convenient to compute the thermodynamics for a small system where a single assembly can form. However, we show that in the canonical ensemble the use of small systems can lead to 
+
+30
+31
+         Title DNA hybridization kinetics: zippering, internal displacement and sequence dependence
+           URL http://scholar.google.com/https://academic.oup.com/nar/article-abstract/41/19/8886/1202162
+          Year 2013
+     Citations 87
+      Versions 23
+     10238679914666066765
+Citations list http://scholar.google.com/scholar?cites=10238679914666066765&as_sdt=2005&sciodt=0,5&hl=en
+ Versions list http://scholar.google.com/scholar?cluster=10238679914666066765&hl=en&as_sdt=0,5&as_ylo=2013&as_yhi=2013
+       Excerpt Abstract Although the thermodynamics of DNA hybridization is generally well established, the kinetics of this classic transition is less well understood. Providing such understanding has new urgency because DNA nanotechnology often depends critically on binding rates. Here, we explore DNA oligomer hybridization kinetics using a coarse-grained model. Strand association proceeds through a complex set of intermediate states, with successful …
+
+32
+         Title Optimizing DNA nanotechnology through coarse-grained modeling: a two-footed DNA walker
+           URL http://pubs.acs.org/doi/abs/10.1021/nn3058483
+          Year 2013
+     Citations 59
+      Versions 6
+     4772492498343852430
+Citations list http://scholar.google.com/scholar?cites=4772492498343852430&as_sdt=2005&sciodt=0,5&hl=en
+ Versions list http://scholar.google.com/scholar?cluster=4772492498343852430&hl=en&as_sdt=0,5&as_ylo=2013&as_yhi=2013
+       Excerpt DNA has enormous potential as a programmable material for creating artificial nanoscale structures and devices. For more complex systems, however, rational design and optimization can become difficult. We have recently proposed a coarse-grained model of DNA that captures the basic thermodynamic, structural, and mechanical changes associated with the fundamental process in much of DNA nanotechnology, the formation of duplexes …
+
+33
+         Title Gels of DNA nanostars never crystallize
+           URL http://pubs.acs.org/doi/abs/10.1021/nn501138w
+          Year 2014
+     Citations 31
+      Versions 12
+     17090389472166185970
+Citations list http://scholar.google.com/scholar?cites=17090389472166185970&as_sdt=2005&sciodt=0,5&hl=en
+ Versions list http://scholar.google.com/scholar?cluster=17090389472166185970&hl=en&as_sdt=0,5&as_ylo=2014&as_yhi=2014
+       Excerpt Using state-of-the-art numerical techniques, we show that, upon lowering the temperature, tetravalent DNA nanostars form a thermodynamically stable, fully bonded equilibrium gel. In contrast to atomic and molecular network formers, in which the disordered liquid is always metastable with respect to some crystalline phase, we find that the DNA nanostar gel has a lower free energy than the diamond crystal structure in a wide range of concentrations …
+
+34
+35
+36
+         Title On the biophysics and kinetics of toehold-mediated DNA strand displacement
+           URL http://scholar.google.com/https://academic.oup.com/nar/article-abstract/41/22/10641/2437516
+          Year 2013
+     Citations 145
+      Versions 25
+     4317397235258650022
+Citations list http://scholar.google.com/scholar?cites=4317397235258650022&as_sdt=2005&sciodt=0,5&hl=en
+ Versions list http://scholar.google.com/scholar?cluster=4317397235258650022&hl=en&as_sdt=0,5&as_ylo=2013&as_yhi=2013
+       Excerpt Abstract Dynamic DNA nanotechnology often uses toehold-mediated strand displacement for controlling reaction kinetics. Although the dependence of strand displacement kinetics on toehold length has been experimentally characterized and phenomenologically modeled, detailed biophysical understanding has remained elusive. Here, we study strand displacement at multiple levels of detail, using an intuitive model of a random walk on a …
+
+37
+         Title Introducing improved structural properties and salt dependence into a coarse-grained model of DNA
+           URL http://aip.scitation.org/doi/abs/10.1063/1.4921957
+          Year 2015
+     Citations 31
+      Versions 19
+     7785472402401288256
+Citations list http://scholar.google.com/scholar?cites=7785472402401288256&as_sdt=2005&sciodt=0,5&hl=en
+ Versions list http://scholar.google.com/scholar?cluster=7785472402401288256&hl=en&as_sdt=0,5&as_ylo=2015&as_yhi=2015
+       Excerpt We introduce an extended version of oxDNA, a coarse-grained model of deoxyribonucleic acid (DNA) designed to capture the thermodynamic, structural, and mechanical properties of single-and double-stranded DNA. By including explicit major and minor grooves and by 
+
+38
+         Title DNA cruciform arms nucleate through a correlated but asynchronous cooperative mechanism
+           URL http://pubs.acs.org/doi/abs/10.1021/jp3080755
+          Year 2012
+     Citations 26
+      Versions 13
+     5773033520596920650
+Citations list http://scholar.google.com/scholar?cites=5773033520596920650&as_sdt=2005&sciodt=0,5&hl=en
+ Versions list http://scholar.google.com/scholar?cluster=5773033520596920650&hl=en&as_sdt=0,5&as_ylo=2012&as_yhi=2012
+       Excerpt Inverted repeat (IR) sequences in DNA can form noncanonical cruciform structures to relieve torsional stress. We use Monte Carlo simulations of a recently developed coarse-grained model of DNA to demonstrate that the nucleation of a cruciform can proceed through a cooperative mechanism. First, a twist-induced denaturation bubble must diffuse so that its midpoint is near the center of symmetry of the IR sequence. Second, bubble fluctuations …
+
+39
+         Title Modeling DNA thermodynamics under torsional stress
+           URL http://www.sciencedirect.com/science/article/pii/S0006349514000927
+          Year 2014
+     Citations 7
+      Versions 9
+     4994311726013379462
+Citations list http://scholar.google.com/scholar?cites=4994311726013379462&as_sdt=2005&sciodt=0,5&hl=en
+ Versions list http://scholar.google.com/scholar?cluster=4994311726013379462&hl=en&as_sdt=0,5&as_ylo=2014&as_yhi=2014
+       Excerpt Abstract Negatively twisted DNA is essential to many biological functions. Due to torsional stress, duplex DNA can have local, sequence-dependent structural defects. In this work, a thermodynamic model of DNA was built to qualitatively predict the local sequence-
+
+40
+         Title Plectoneme tip bubbles: coupled denaturation and writhing in supercoiled DNA
+           URL http://scholar.google.com/https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5224516/
+          Year 2015
+     Citations 24
+      Versions 13
+     5468668700615014957
+Citations list http://scholar.google.com/scholar?cites=5468668700615014957&as_sdt=2005&sciodt=0,5&hl=en
+ Versions list http://scholar.google.com/scholar?cluster=5468668700615014957&hl=en&as_sdt=0,5&as_ylo=2015&as_yhi=2015
+       Excerpt Abstract We predict a novel conformational regime for DNA, where denaturation bubbles form at the tips of plectonemes, and study its properties using coarse-grained simulations. For negative supercoiling, this regime lies between bubble-dominated and plectoneme-dominated phases, and explains the broad transition between the two observed in experiment. Tip bubbles cause localisation of plectonemes within thermodynamically …
+
+41
+         Title The role of loop stacking in the dynamics of DNA hairpin formation
+           URL http://pubs.acs.org/doi/abs/10.1021/jp510061f
+          Year 2014
+     Citations 5
+      Versions 13
+     12769517958465679700
+Citations list http://scholar.google.com/scholar?cites=12769517958465679700&as_sdt=2005&sciodt=0,5&hl=en
+ Versions list http://scholar.google.com/scholar?cluster=12769517958465679700&hl=en&as_sdt=0,5&as_ylo=2014&as_yhi=2014
+       Excerpt We study the dynamics of DNA hairpin formation using oxDNA, a nucleotide-level coarse-grained model of DNA. In particular, we explore the effects of the loop stacking interactions and non-native base pairing on the hairpin closing times. We find a nonmonotonic variation of the hairpin closing time with temperature, in agreement with the experimental work of Wallace et al.(Proc. Natl. Acad. Sci. USA 2001, 98, 5584–5589). The hairpin closing …
+
+42
+         Title Coarse-grained simulations of DNA overstretching
+           URL http://aip.scitation.org/doi/abs/10.1063/1.4792252
+          Year 2013
+     Citations 45
+      Versions 17
+     1759715487037913591
+Citations list http://scholar.google.com/scholar?cites=1759715487037913591&as_sdt=2005&sciodt=0,5&hl=en
+ Versions list http://scholar.google.com/scholar?cluster=1759715487037913591&hl=en&as_sdt=0,5&as_ylo=2013&as_yhi=2013
+       Excerpt We use a recently developed coarse-grained model to simulate the overstretching of duplex DNA. Overstretching at 23° C occurs at 74 pN in the model, about 6–7 pN higher than the experimental value at equivalent salt conditions. Furthermore, the model reproduces the temperature dependence of the overstretching force well. The mechanism of overstretching is always force-induced melting by unpeeling from the free ends. That we never see S …
+
+43
+         Title Programmable energy landscapes for kinetic control of DNA strand displacement
+           URL http://scholar.google.com/https://www.nature.com/ncomms/2014/141110/ncomms6324/pdf/ncomms6324.pdf?origin=ppub
+          Year 2014
+     Citations 53
+      Versions 5
+     576663016166322341
+Citations list http://scholar.google.com/scholar?cites=576663016166322341&as_sdt=2005&sciodt=0,5&hl=en
+ Versions list http://scholar.google.com/scholar?cluster=576663016166322341&hl=en&as_sdt=0,5&as_ylo=2014&as_yhi=2014
+       Excerpt Abstract DNA is used to construct synthetic systems that sense, actuate, move and compute. The operation of many dynamic DNA devices depends on toehold-mediated strand displacement, by which one DNA strand displaces another from a duplex. Kinetic control of strand displacement is particularly important in autonomous molecular machinery and molecular computation, in which non-equilibrium systems are controlled through rates of …
+
+44
+         Title Elastic properties and secondary structure formation of single-stranded DNA at monovalent and divalent salt conditions
+           URL http://scholar.google.com/https://academic.oup.com/nar/article-abstract/42/3/2064/1057025
+          Year 2013
+     Citations 39
+      Versions 19
+     5671529974732013039
+Citations list http://scholar.google.com/scholar?cites=5671529974732013039&as_sdt=2005&sciodt=0,5&hl=en
+ Versions list http://scholar.google.com/scholar?cluster=5671529974732013039&hl=en&as_sdt=0,5&as_ylo=2013&as_yhi=2013
+       Excerpt Abstract Single-stranded DNA (ssDNA) plays a major role in several biological processes. It is therefore of fundamental interest to understand how the elastic response and the formation of secondary structures are modulated by the interplay between base pairing and 
+
+45
+         Title Ultrafast cooling reveals microsecond-scale biomolecular dynamics
+           URL http://scholar.google.com/https://www.nature.com/ncomms/2014/141217/ncomms6737/full/ncomms6737.html
+          Year 2014
+     Citations 8
+      Versions 5
+     5301862090154592091
+Citations list http://scholar.google.com/scholar?cites=5301862090154592091&as_sdt=2005&sciodt=0,5&hl=en
+ Versions list http://scholar.google.com/scholar?cluster=5301862090154592091&hl=en&as_sdt=0,5&as_ylo=2014&as_yhi=2014
+       Excerpt Abstract The temperature-jump technique, in which the sample is rapidly heated by a powerful laser pulse, has been widely used to probe the fast dynamics of folding of proteins and nucleic acids. However, the existing temperature-jump setups tend to involve sophisticated and expensive instrumentation, while providing only modest temperature changes of~ 10–15 C, and the temperature changes are only rapid for heating, but not …
+
+46
+         Title The thermodynamics of DNA structural motifs
+           URL http://www.annualreviews.org/doi/abs/10.1146/annurev.biophys.32.110601.141800
+          Year 2004
+     Citations 904
+      Versions 12
+     564573442629735547
+Citations list http://scholar.google.com/scholar?cites=564573442629735547&as_sdt=2005&sciodt=0,5&hl=en
+ Versions list http://scholar.google.com/scholar?cluster=564573442629735547&hl=en&as_sdt=0,5&as_ylo=2004&as_yhi=2004
+       Excerpt ▪ Abstract DNA secondary structure plays an important role in biology, genotyping diagnostics, a variety of molecular biology techniques, in vitro–selected DNA catalysts, nanotechnology, and DNA-based computing. Accurate prediction of DNA secondary 
+
+47
+         Title Application of the method of phage T4 DNA ligase-catalyzed ring-closure to the study of DNA structure: II. NaCl-dependence of DNA flexibility and helical repeat
+           URL http://www.sciencedirect.com/science/article/pii/0022283690901315
+          Year 1990
+     Citations 234
+      Versions 6
+     12965272790015773666
+Citations list http://scholar.google.com/scholar?cites=12965272790015773666&as_sdt=2005&sciodt=0,5&hl=en
+ Versions list http://scholar.google.com/scholar?cluster=12965272790015773666&hl=en&as_sdt=0,5&as_ylo=1990&as_yhi=1990
+       Excerpt Abstract In this work, we demonstrate that it is possible to determine the molar cyclization factor j M from single ligation reactions in which both circular and linear dimer DNA species are formed concurrently from linear monomers. This approach represents a significant 
+
+48
+         Title Insight into nucleic acid counterion interactions from inside molecular dynamics simulations is “worth its salt”
+           URL http://pubs.rsc.org/en/content/articlehtml/2012/sm/c2sm25690h
+          Year 2012
+     Citations 30
+      Versions 3
+     5455683419770348251
+Citations list http://scholar.google.com/scholar?cites=5455683419770348251&as_sdt=2005&sciodt=0,5&hl=en
+ Versions list http://scholar.google.com/scholar?cluster=5455683419770348251&hl=en&as_sdt=0,5&as_ylo=2012&as_yhi=2012
+       Excerpt Nucleic acids are highly charged polyelectrolytes. Their interactions with counterions are of great importance for their structural stability, conformational behaviour and biological functions. Molecular modelling and simulation techniques, particularly molecular dynamics, 
+
+         Title M. DynaMix Studies of Solvation, Solubility and Permeability
+           URL http://scholar.google.com/https://www.intechopen.com/download/pdf/35485
+          Year 2012
+     Citations 1
+      Versions 10
+     5876044465230684798
+Citations list http://scholar.google.com/scholar?cites=5876044465230684798&as_sdt=2005&sciodt=0,5&hl=en
+ Versions list http://scholar.google.com/scholar?cluster=5876044465230684798&hl=en&as_sdt=0,5&as_ylo=2012&as_yhi=2012
+       Excerpt During the last four decades Molecular Dynamics (MD) simulations have developed to a powerful discipline and finally very close to the early vision from early 80&#39;s that it would mature and become a computer laboratory to study molecular systems in conditions similar 
+
+         Title Themed issue: Polyelectrolytes in Soft Matter and Biology
+           URL http://pubs.rsc.org/en/content/articlepdf/2012/sm/c2sm90106d/2012-08-23
+     Citations 0
+      Versions 0
+       Excerpt Page 1. ISSN 1744-683X www.rsc.org/softmatter Volume 8 | Number 36 | 28 September 2012 |Pages 9255–9488 RSC Pr Rew Physic Award Rewar 2 Themed issue: Polyelectrolytes in SoftMatter and Biology REVIEW ARTICLE Francesca Mocci and Aatto Laaksonen Insight into nucleic
+
+49
+50
+         Title Energetics of DNA twisting: I. Relation between twist and cyclization probability
+           URL http://www.sciencedirect.com/science/article/pii/S0022283683801983
+          Year 1983
+     Citations 418
+      Versions 7
+     14504686807508588315
+Citations list http://scholar.google.com/scholar?cites=14504686807508588315&as_sdt=2005&sciodt=0,5&hl=en
+ Versions list http://scholar.google.com/scholar?cluster=14504686807508588315&hl=en&as_sdt=0,5&as_ylo=1983&as_yhi=1983
+       Excerpt The temperature dependence of the ligase closure reaction has also been measured for three systems:(1) linear restriction fragments in equilibrium with cyclized molecules;(2) singly nicked circles; and (3) half molecules in equilibrium with joined half molecules. The 
+
+         Title Energetics of DNA twisting: II. Topoisomer analysis
+           URL http://www.sciencedirect.com/science/article/pii/S0022283683801995
+          Year 1983
+     Citations 247
+      Versions 5
+     15060850533495204041
+Citations list http://scholar.google.com/scholar?cites=15060850533495204041&as_sdt=2005&sciodt=0,5&hl=en
+ Versions list http://scholar.google.com/scholar?cluster=15060850533495204041&hl=en&as_sdt=0,5&as_ylo=1983&as_yhi=1983
+       Excerpt 984 D. SHORE AND RL BALDWIN the distribution of topoisomers. These experiments are analogous to those for much larger DNAs, which use the breadth of the topoisomer distribution to determine the free energy of supercoiling, as in the work of Depew &amp; Wang 
+
+         Title Energetics of DNA twisting. 2. Topoisomer analysis
+          Year 1983
+     Citations 7
+      Versions 0
+     3572882592505494623
+Citations list http://scholar.google.com/scholar?cites=3572882592505494623&as_sdt=2005&sciodt=0,5&hl=en
+
