@@ -26,15 +26,15 @@ json
 
 After cloning the app, `cd` to the directory containing [`app.y`](app.py) and do
 
-```
+```bash
 python app.py
 ```
 to start the Flask app.
 
 Navigate to http://127.0.0.1:5000/ in a web browser to use claREFy. The search bar can accept any string containing an arXiv code, so  entering any of the following should work:
 
-> 1207.7214
+https://arxiv.org/abs/1303.7367
 
-> https://arxiv.org/abs/1303.7367
+https://arxiv.org/pdf/1609.01668v1.pdf
 
-> https://arxiv.org/pdf/1609.01668v1.pdf
+random1207.7214string
