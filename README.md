@@ -29,3 +29,4 @@ After cloning the app, `cd` to the directory containing [`app.y`](app.py) and do
 ```
 python app.py
 ```
+to start the Flask app. Open a browser to http://127.0.0.1:5000/ to use the app.
