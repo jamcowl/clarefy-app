@@ -24,6 +24,8 @@ base64
 json
 ```
 
+## Running
+
 After cloning the app, `cd` to the directory containing [`app.y`](app.py) and do
 
 ```bash
