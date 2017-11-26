@@ -24,7 +24,9 @@ base64
 json
 ```
 
-After cloning the app, `cd` to the directory containing [`app.y`](app.py) and do
+### Running
+
+After cloning this repository, `cd` to the directory containing [`app.y`](app.py) and do
 
 ```bash
 python app.py
