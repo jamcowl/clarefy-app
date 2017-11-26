@@ -9,10 +9,10 @@ docInfo = ""
 @app.route('/signUp', methods=['GET','POST'])
 def signUp():
 	if request.method == 'POST':
-		print "\n================================================================\n > Button clicked to submit document!\n================================================================\n"
+		print "\n > Button clicked to submit document!\n"
 		global docInfo
 		docInfo = request.form['inputName']
-		print "\n================================================================\n > Got info: "+docInfo+"\n================================================================\n"
+		print "\n > Got info: "+docInfo+"\n"
 		return clarefyUtils.getFullPageHTML(docInfo)
 	elif request.method == 'GET':
 		global docInfo

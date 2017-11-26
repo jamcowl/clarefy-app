@@ -1,2 +1,31 @@
 # clarefy-app
 Flask application to help clarify key concepts in scientific papers
+
+### Motivation
+
+We want to help researchers and students understand academic papers and articles more easily when they are reading out of their comfort zone/area of expertise. The prospect of slogging through a publication full of jargon and references to a body of literature the reader hasn't heard of can be extremely daunting, which can discourage people from pushing the limits of their understanding. 
+
+The reality: the user supplies an arXiv address to a paper, the app reads in the title and abstract, uses the Microsoft cognitive services API to extract the key concepts, then provides a ranked list of short definitions and Wikipedia links for the reader.
+
+The dream: with more time, we would finish off our reference-parsing code, which would access the content of the paper's citations in addition to the paper itself. We would then use this to compare with the important concepts of the primary paper and give ranked suggestions for background reading. Ideally, instead of a long list of citations in no useful order in the paper, the app could provide the top few papers which are seminal works on the area and most relevant to understanding the paper at hand.
+
+### Requirements
+
+Python 2.7 with the following libraries installed:
+```
+flask
+re
+urllib
+urllib2
+feedparser
+wikipedia
+httplib
+base64
+json
+```
+
+After cloning the app, `cd` to the directory containing [`app.y`](app.py) and do
+
+```
+python app.py
+```

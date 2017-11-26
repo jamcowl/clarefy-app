@@ -3,24 +3,21 @@
 import re
 import keyPhrasesMSCS as kp
 import urllib, urllib2
-#import xml.etree.ElementTree as ET
 import feedparser
 import wikipedia
 
 
+# call the implementation of MS cognitive services
+def getTopPhrases(longString):
+	allkeywords = kp.getKeyWords(longString)
+	top = []
+	for keyword in allkeywords:
+		keystr = str(keyword)
+		if len(keystr.split()) > 1:
+			top.append(keystr)
+	return top
 
-
-# get intro from wikipedia for a topic
-def getWikiIntro(inString):
-	out = ["FAILFAIL","FAILFAIL"]
-	try:
-		out[0] = wikipedia.summary(inString, sentences=4)
-		out[1] = wikipedia.page(inString).url
-	except Exception, e:
-		pass
-	return out
-
-
+# scrape arXiv for info (more reliable than arXiv API...)
 def infoFromArXiv(arXivCode):
 	url = "https://arxiv.org/abs/"+str(arXivCode)
 	pagesource = urllib2.urlopen(url)
@@ -46,19 +43,16 @@ def infoFromArXiv(arXivCode):
 	title = title.strip().replace("<title>","").replace("</title>","").replace("\n"," ").replace("   "," ").replace("  "," ")
 	summary = summary.strip().replace("\n"," ")
 	return [title,summary]
-		
 
-def getTopPhrases(longString):
-	allkeywords = kp.getKeyWords(longString)
-	top = []
-	for keyword in allkeywords:
-		keystr = str(keyword)
-		if len(keystr.split()) > 1:
-			top.append(keystr)
-	return top
-
-
-
+# get intro from wikipedia for a topic
+def getWikiIntro(inString):
+	out = ["FAILFAIL","FAILFAIL"]
+	try:
+		out[0] = wikipedia.summary(inString, sentences=4)
+		out[1] = wikipedia.page(inString).url
+	except Exception, e:
+		pass
+	return out
 
 # get PDF url from arxiv-looking string
 def arXivPDF(someString):
@@ -81,31 +75,7 @@ def findArXivCode(someString):
 	code = arXivCode[0]
 	return code
 
-# rank citations by importance
-def rankCitations(unrankedCitations):
-	rankedCitations = []
-	# TODO
-	return rankedCitations
-
-# make an HTML card to display citation
-def getHTMLcitationCard(citationString):
-	citationCard = ""
-	# TODO
-	return citationCard
-
-# get definitions of key phrases
-def definePhrase(somePhrase):
-	definition = ""
-	# TODO
-	return  definition
-
-# make an HTML card to display key phrase and definitio
-def getHTMLphraseCard(somePhrase,phraseDefinition):
-	phraseCard = ""
-	# TODO
-	return phraseCard
-
-
+# quick hacky HTML div for phrase info
 def buildHTMLDivs(keyps):
 	divs = []
 	for keyp in keyps:
@@ -151,16 +121,19 @@ def getFullPageHTML(userInput):
 
 
 
+##############################################################
+# THE LAND OF BROKEN DREAMS (CODE WE DIDN'T GET TO WRITE...) #
+##############################################################
 
+# rank citations by importance
+def rankCitations(unrankedCitations):
+	rankedCitations = []
+	# TODO
+	return rankedCitations
 
-"""
-
-[testTitle, testSummary] = infoFromArXiv(1412.1633)
-keyps = getTopPhrases(testSummary)
-for keyp in keyps:
-	print keyp+":\n"+getWikiIntro(keyp)+"\n-------------------"
-
-"""
-
-
+# make an HTML card to display citation
+def getHTMLcitationCard(citationString):
+	citationCard = ""
+	# TODO
+	return citationCard
 
